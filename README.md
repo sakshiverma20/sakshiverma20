@@ -3,7 +3,7 @@
 <h1 align="center" style="color: #ff69b4;">✨ Hi, I'm Sakshi Verma ✨</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="200" alt="Cute Cat GIF">
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="200" alt="Cute Cat GIF"> 
 </p>
 
 <p align="center"><strong>🎓 Pursuing B.Tech Data Science at Manipal University Jaipur</strong></p>
@@ -33,7 +33,7 @@
 - 🌟 Master Machine Learning & Deep Learning  
 - 🔬 Dive into Real-World Data Projects  
 - 👩‍💻 Become a Successful **Data Scientist**  
-- 🌸 Build a strong open-source portfolio
+- 👾 Build a strong open-source portfolio
 
 ---
 
@@ -51,6 +51,6 @@
 
 ## 💌 Let's Connect!
 
-📬 Feel free to reach me on [LinkedIn](https://www.linkedin.com/in/sakshi-verma-267214353/)
+📬 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/sakshi-verma-267214353/)
  Always ready to chat about tech, life, dogs, and code!
 
