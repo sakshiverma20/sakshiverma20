@@ -1,4 +1,4 @@
-<!-- Sakshi's Girly-Themed GitHub Profile README -->
+<!-- Sakshi's GitHub Profile README -->
 
 <h1 align="center" style="color: #ff69b4;">✨ Hi, I'm Sakshi Verma ✨</h1>
 
@@ -7,7 +7,7 @@
 </p>
 
 <p align="center"><strong>🎓 Pursuing B.Tech Data Science at Manipal University Jaipur</strong></p>
-<p align="center"><strong>🌸 Aspiring Data Scientist | Python | C Coder</strong></p>
+<p align="center"><strong>🎀 Aspiring Data Scientist | Python | C Coder</strong></p>
 
 ---
 
@@ -18,7 +18,7 @@
 
 ---
 
-## 🧁 Skills & Tools
+##  Skills & Tools
 
 - 🐍 Python  
 - 💻 C Language  
@@ -54,6 +54,3 @@
 📬 Feel free to reach me on [LinkedIn](https://www.linkedin.com/in/sakshi-verma-267214353/)
  Always ready to chat about tech, life, dogs, and code!
 
-<p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="160" alt="Cute Pink GIF">
-</p>
