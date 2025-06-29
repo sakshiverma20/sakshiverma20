@@ -11,19 +11,19 @@
 
 ---
 
-## About Me:
+## ☺️ About Me:
 
 ✨ I'm **Sakshi Verma**, a data-driven girl who loves discovering patterns and telling stories with numbers!  
 💻 Passionate about **Python**, **C Programming**, and everything about **Data Science**.  
 
 ---
 
-## Skills & Tools:
+## 🧠 Skills & Tools:
 
 - 🐍 Python  
-- 💻 C Language  
+- 📝 C Language  
 - 📊 Data Analysis  
-- 🧠 Machine Learning (Beginner)  
+- 💻 Machine Learning (Beginner)  
 - ✨ Git & GitHub
 
 ---
